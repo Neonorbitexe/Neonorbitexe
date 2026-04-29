@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 -To be continued 
 
-<h2> Certications</h2>
+<h2> Certications:</h2>
 -CompTIA Security+ 
 
 <h2> 🤳 Connect with me:</h2>
