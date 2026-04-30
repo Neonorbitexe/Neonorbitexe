@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kylo! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
--SOC Homelab 
+-SOC Homelab https://github.com/Neonorbitexe/Homelab
 
 <h2> Certications:</h2>
 -CompTIA Security+ 
