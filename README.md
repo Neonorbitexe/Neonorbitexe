@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 *Homelab (walkthrough) https://github.com/Neonorbitexe/Homelab
 
-*Soc Homelab- In progress
+*Soc Homelab- In progress https://github.com/Neonorbitexe/Soc-Homelab
 
 <h2> Certications:</h2>
 *CompTIA Security+ 
